@@ -1,0 +1,51 @@
+[submodule "ansible-elasticsearch"]
+	path = ansible-elasticsearch
+	url = git@github.com:kressh/ansible-elasticsearch.git
+[submodule "ansible-elastalert"]
+	path = ansible-elastalert
+	url = git@github.com:kressh/ansible-elastalert.git
+[submodule "ansible-curator"]
+	path = ansible-curator
+	url = git@github.com:kressh/ansible-curator.git
+[submodule "ansible-elastic-beats"]
+	path = ansible-elastic-beats
+	url = git@github.com:kressh/ansible-elastic-beats.git
+[submodule "ansible-redis"]
+	path = ansible-redis
+	url = git@github.com:kressh/ansible-redis.git
+[submodule "ansible-elastic-apm"]
+	path = ansible-elastic-apm
+	url = git@github.com:kressh/ansible-elastic-apm.git
+[submodule "ansible-kibana"]
+	path = ansible-kibana
+	url = git@github.com:kressh/ansible-kibana.git
+[submodule "ansible-fluentd"]
+	path = ansible-fluentd
+	url = git@github.com:kressh/ansible-fluentd.git
+[submodule "ansible-spiped"]
+	path = ansible-spiped
+	url = git@github.com:kressh/ansible-spiped.git
+[submodule "ansible-ubuntu-common"]
+	path = ansible-ubuntu-common
+	url = git@github.com:kressh/ansible-ubuntu-common.git
+[submodule "ansible-postgresql"]
+	path = ansible-postgresql
+	url = git@github.com:kressh/ansible-postgresql.git
+[submodule "ansible-pgbouncer"]
+	path = ansible-pgbouncer
+	url = git@github.com:kressh/ansible-pgbouncer.git
+[submodule "ansible-provision"]
+	path = ansible-provision
+	url = git@github.com:kressh/ansible-provision.git
+[submodule "docker.ubuntu"]
+	path = docker.ubuntu
+	url = git@github.com:angstwad/docker.ubuntu.git
+[submodule "ansible-dante"]
+	path = ansible-dante
+	url = git@github.com:kressh/ansible-dante.git
+[submodule "ansible-squid"]
+	path = ansible-squid
+	url = git@github.com:kressh/ansible-squid.git
+[submodule "ansible-haproxy"]
+	path = ansible-haproxy
+	url = git@github.com:kressh/ansible-haproxy.git
