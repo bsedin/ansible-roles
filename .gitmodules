@@ -49,3 +49,12 @@
 [submodule "ansible-haproxy"]
 	path = ansible-haproxy
 	url = git@github.com:kressh/ansible-haproxy.git
+[submodule "ansible-pgslice"]
+	path = ansible-pgslice
+	url = git@github.com:kressh/ansible-pgslice.git
+[submodule "ansible-jenkins"]
+	path = ansible-jenkins
+	url = git@github.com:kressh/ansible-jenkins.git
+[submodule "ansible-shadowsocks"]
+	path = ansible-shadowsocks
+	url = git@github.com:kressh/ansible-shadowsocks.git
