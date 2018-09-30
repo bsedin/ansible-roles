@@ -58,3 +58,6 @@
 [submodule "ansible-shadowsocks"]
 	path = ansible-shadowsocks
 	url = git@github.com:kressh/ansible-shadowsocks.git
+[submodule "ansible-ssl-sync"]
+	path = ansible-ssl-sync
+	url = git@github.com:kressh/ansible-ssl-sync.git
