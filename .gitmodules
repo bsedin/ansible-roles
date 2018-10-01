@@ -64,3 +64,9 @@
 [submodule "ansible-letsencrypt"]
 	path = ansible-letsencrypt
 	url = git@github.com:kressh/ansible-letsencrypt.git
+[submodule "ansible-nginx"]
+	path = ansible-nginx
+	url = git@github.com:kressh/ansible-nginx.git
+[submodule "ansible-nginx-proxy"]
+	path = ansible-nginx-proxy
+	url = git@github.com:kressh/ansible-nginx-proxy.git
