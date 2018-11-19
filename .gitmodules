@@ -73,3 +73,9 @@
 [submodule "ansible-minio"]
 	path = ansible-minio
 	url = git@github.com:kressh/ansible-minio.git
+[submodule "ansible-graylog"]
+	path = ansible-graylog
+	url = git@github.com:kressh/ansible-graylog.git
+[submodule "ansible-self-signed-certs"]
+	path = ansible-self-signed-certs
+	url = git@github.com:kressh/ansible-self-signed-certs.git
