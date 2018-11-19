@@ -79,3 +79,6 @@
 [submodule "ansible-self-signed-certs"]
 	path = ansible-self-signed-certs
 	url = git@github.com:kressh/ansible-self-signed-certs.git
+[submodule "ansible-mongodb"]
+	path = ansible-mongodb
+	url = git@github.com:kressh/ansible-mongodb.git
